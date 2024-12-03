@@ -102,8 +102,8 @@ body {
     color:#97A3B8;
     overflow-x: hidden;
     overflow-y: scroll;
-    height:60%;
-    width:70%;
+     height:60%;
+    width:80%; 
     font-size:18px;
     }
  .side1 {
@@ -117,32 +117,32 @@ body {
     padding:10px;
     top: 80px;
     }
- .figcaption1 {
-    position: relative;
-    left: 40%;
-    bottom: 80px;
-    }
  .figure2 {
     position: relative;
     right: 20px;
     padding: 10px;
     top: 98px;
     }
-.figcaption2 {
-    position: relative;
-    left: 39%;
-    top:-60px;
-      
-   }
 .figure3 {
    position: relative;
    right: 20px;
    top: 60px;
   }
+  .figcaption1 {
+    position: relative;
+    left: 40%;
+    bottom: 150px;
+    }
+  .figcaption2 {
+    position: relative;
+    left: 40%;
+    top:-150px;
+      
+   }
 .figcaption3 {
    position: relative;
-   left: 35%;
-   top: -60px;
+   left: 40%;
+   top: -150px;
   }
   .add{
     border:1px solid gray;
