@@ -171,12 +171,10 @@ b{
     padding: 6px;
 }
 .img1,.img2,.img3{
-    padding: 67px;
-    width: 135px;
-    height: 140px;
+    padding: 10px;
 }
 .img1:hover,.img2:hover,.img3:hover,.image01:hover{
-    transform: scale(1.20);
+    transform: scale(1.10);
 }
 .imgpara01,.imgpara02,.imgpara03{
     padding: 16px;
