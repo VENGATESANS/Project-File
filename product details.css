@@ -181,7 +181,7 @@ body {
     display:grid;
     grid-template-columns:repeat(4,1fr);
     margin: 15px; 
-    padding: 8px;
+    padding: 10px;
 }
 .products01{
     border: 1px solid gray;
@@ -189,10 +189,8 @@ body {
     border-radius:3px;
 }
 .img1{
-    padding: 60px;
-    width: 145px;
-    height: 150px;
-    background-color: #141414;
+    padding: 10px;
+    
 }
 .img1:hover,.img2:hover,.img3:hover,.itemno1:hover,.itemno2:hover,.itemcenter:hover{
     transform: scale(1.12);
